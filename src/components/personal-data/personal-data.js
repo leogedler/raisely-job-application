@@ -56,8 +56,8 @@ const PersonalData = () => {
 
         <h3 className="content">
           Full Stack developer with 6 years experience in the IT industry. Founder of his own start up, with great experience working in a fast paced environment focused on meeting the client needs. Key team player who can learn new technologies very fast and take a project from scratch to success.<br/> 
-          Extensive experience in the MEAN / MERN-Stack, using Angular / React / Vue as a frameworks for the web frontend and NodeJS - ExpressJs - MongoDB - GraphQL - MySql for the backend. Solid knowledge of JavaScript ES5 / ES6 / ES7, HTML5 and CSS3.Additional experience developing mobile Apps for Android and iOS devices using React Native / NativeScript frameworks.<br/>
-          Ethereum platform knowledge, creating Smart Contracts and deploying them into the network using Solidity, Remix, Web3 and MetaMask to create and interact directly with these DAPPS.
+          Extensive experience in the MEAN / MERN-Stack, using Angular / React / Vue as a frameworks for the web frontend and NodeJS - ExpressJs - MongoDB - GraphQL - MySql for the backend. Solid knowledge of JavaScript ES5 / ES6 / ES7, HTML5 and CSS3. Additional experience developing mobile Apps for Android and iOS devices using React Native / NativeScript frameworks.<br/>
+          Ethereum platform knowledge, creating Smart Contracts and deploying them into the network using Solidity, Remix, Web3 and MetaMask.
         </h3>
         <h3><a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/leogedler/">Linkedin</a></h3>
         <h3><a rel="noopener noreferrer" target="_blank" href="https://github.com/leogedler">Github</a></h3>
