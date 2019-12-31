@@ -1,0 +1,31 @@
+.question1 {
+  color: white;
+
+  .name {
+    color: cyan;
+  }
+
+  .start-div {
+    padding-top: 45vh;
+    height: 20vw;
+    margin: auto;
+    text-align: center;
+  }
+
+  .parallax-div {
+    height: 20vw;
+    margin: auto;
+    width: 70vw;
+
+    .question {
+      text-align: center;
+    }
+    .answer {
+      text-align: left;
+    }
+  }
+}
+
+.clock{
+  padding-right: 10px;;
+}

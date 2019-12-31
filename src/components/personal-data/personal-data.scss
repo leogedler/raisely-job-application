@@ -1,0 +1,20 @@
+.personal {
+  color: white;
+  .parallax-div {
+    height: 20vw;
+    margin: auto;
+    width: 70vw;
+
+    .content {
+      text-align: left;
+    }
+  }
+}
+
+.meme-image {
+  text-align: center;
+  margin: auto;
+  img {
+    width: 65vw;
+  }
+}
